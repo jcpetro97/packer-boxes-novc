@@ -91,11 +91,6 @@
       {
         "output": "builds/{{.Provider}}-ubuntu1804.box",
         "type": "vagrant"
-      },
-      {
-        "type": "vagrant-cloud",
-        "box_tag": "jcpetro97/ubuntu1804",
-        "version": "{{user `version`}}"
       }
     ]
   ]

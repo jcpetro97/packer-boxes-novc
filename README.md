@@ -1,6 +1,6 @@
 # Jeff Geerling's Vagrant Box Packer Builds
 
-![Validate Packer JSON files](https://github.com/geerlingguy/packer-boxes/workflows/Validate%20Packer%20JSON%20files/badge.svg)
+**NOTE:** This repo does not push completed boxes to vagrant cloud.  It's used for local testing or when you don't want stuff going up to vagrant cloud.
 
 This project contains the Packer build configurations for all of Jeff Geerling's (geerlingguy's) Vagrant Boxes. Each box builds a minimal base box for use with VirtualBox. Available boxes include:
 
